@@ -1,0 +1,29 @@
+
+table,
+th,
+td {
+    text-align: center;
+}
+
+table{
+    width:100%
+}
+
+th,td{
+    padding: 30px;
+}
+td{
+    background-color:beige ;
+}
+th{
+    background-color: bisque;
+}
+
+p span{
+    color: rgba(236, 95, 52, 0.812);
+}
+
+li{
+    text-align: left;
+    list-style-type:circle;
+}
